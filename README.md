@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **PDF Hematology Extractor**
+- 🔭 I’m currently doing my **BS in Computer Science**
 - 🌱 I’m currently learning **Python automation, data processing, and AI tools**
 - 👯 I’m looking to collaborate on **Python and data-related projects**
 - 💬 Ask me about **Python, regex, PDF extraction, pandas**
