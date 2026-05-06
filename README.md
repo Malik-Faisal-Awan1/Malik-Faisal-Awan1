@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Python automation, data processing, and AI tools**
 - 👯 I’m looking to collaborate on **Python and data-related projects**
 - 💬 Ask me about **Python, regex, PDF extraction, pandas**
-- 📫 Reach me at: **malikfaisal.pc5e@gmail.com**
+- 📫 Reach me at: **malikfaisal.pc56@gmail.com**
 
 ---
 
