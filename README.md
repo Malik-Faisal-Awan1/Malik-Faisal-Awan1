@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faisal Khalid</h1>
-<h3 align="center">Python Developer | Data Extraction Enthusiast | Learning AI & Automation</h3>
+<h3 align="center">Python Developer Intern @ Brightline Solutions | Computer Vision & Applied AI | BSCS @ UCP</h3>
 
 <p align="center">
   <a href="https://github.com/Malik-Faisal-Awan1">
@@ -11,11 +11,11 @@
 
 ### 🚀 About Me
 
-- 🎓 **BS Computer Science student** & **Python Developer at BLS PVT LTD**, focused on practical engineering over theoretical fluff.
-- 🛠️ **Building tools to solve real problems:** from messy PDF data extraction to developing advanced ANPR systems.
-- 🧠 **Currently exploring** applied AI, advanced automation, and building reliable data pipelines.
-- 💬 **Ask me about** Python scripting, Regex, Pandas, and extracting structured data from chaos.
-- 📫 Reach me at: **faisalkhalid.kd1@gmail.com**
+- 🎓 **BSCS @ UCP ('27)** & **Python Developer & Computer Vision Intern at Bright-line Solutions (Pvt) Ltd**.
+- 🛠️ **Shipped two live client systems:** Secure AI Parking (ANPR, ~94% accuracy) and Medicode Track-and-Trace.
+- 🧠 **Final year project:** privacy-preserving healthcare GenAI using federated learning.
+- 💬 **Ask me about** Python, computer vision, and turning messy data into something usable.
+- 🌐 More at **[my portfolio](https://portfolio-f1-561f.vercel.app)** · 📫 **faisalkhalid.kd1@gmail.com**
 
 ---
 
@@ -33,11 +33,11 @@
 
 ### 📌 Featured Projects
 
-- 🔹 [PDF Hematology Extractor](https://github.com/Malik-Faisal-Awan1/pdf-hematology-extractor)  
-  Extracts hematology values, hemoglobin fractions, and morphology findings from PDF reports into CSV.
-
 - 🔹 [ANPR-BLS](https://github.com/Malik-Faisal-Awan1/ANPR-BLS)  
-  Automatic Number Plate Recognition system (ANPR-BLS).
+  Number plate recognition for a live client parking system. 15K-image dataset, fine-tuned YOLOv9t + fast-plate OCR, ~94% accuracy.
+
+- 🔹 [PDF Hematology Extractor](https://github.com/Malik-Faisal-Awan1/pdf-hematology-extractor)  
+  Turned 6+ years of hematology PDFs into structured SPSS-ready data. A 1–2 year manual job cut to 6 months.
 
 ---
 
@@ -58,6 +58,7 @@
 
 <p>
   <a href="https://github.com/Malik-Faisal-Awan1"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://portfolio-f1-561f.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel" /></a>
   <a href="https://www.linkedin.com/in/faisal-kd"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:faisalkhalid.kd1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
