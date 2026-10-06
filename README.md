@@ -11,10 +11,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently doing my **BS in Computer Science**
-- 🌱 I’m currently learning **Python automation, data processing, and AI tools**
-- 👯 I’m looking to collaborate on **Python and data-related projects**
-- 💬 Ask me about **Python, regex, PDF extraction, pandas**
+- 🎓 **BS Computer Science student** focused on practical engineering over theoretical fluff.
+- 🛠️ **Building tools to solve real problems:** from messy PDF data extraction to computer vision (ANPR).
+- 🧠 **Currently exploring** applied AI, advanced automation, and building reliable data pipelines.
+- 💬 **Ask me about** Python scripting, Regex, Pandas, and extracting structured data from chaos.
 - 📫 Reach me at: **faisalkhalid.kd1@gmail.com**
 
 ---
