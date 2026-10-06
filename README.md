@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Python automation, data processing, and AI tools**
 - 👯 I’m looking to collaborate on **Python and data-related projects**
 - 💬 Ask me about **Python, regex, PDF extraction, pandas**
-- 📫 Reach me at: **malikfaisal.pc56@gmail.com**
+- 📫 Reach me at: **faisalkhalid.kd1@gmail.com**
 
 ---
 
@@ -58,7 +58,8 @@
 
 <p>
   <a href="https://github.com/Malik-Faisal-Awan1"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:malikfaisal.pc5e@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/faisal-kd"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:faisalkhalid.kd1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
