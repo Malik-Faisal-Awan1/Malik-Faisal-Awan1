@@ -11,8 +11,8 @@
 
 ### 🚀 About Me
 
-- 🎓 **BS Computer Science student** focused on practical engineering over theoretical fluff.
-- 🛠️ **Building tools to solve real problems:** from messy PDF data extraction to developing the ANPR system for BLS.
+- 🎓 **BS Computer Science student** & **Python Developer at BLS PVT LTD**, focused on practical engineering over theoretical fluff.
+- 🛠️ **Building tools to solve real problems:** from messy PDF data extraction to developing advanced ANPR systems.
 - 🧠 **Currently exploring** applied AI, advanced automation, and building reliable data pipelines.
 - 💬 **Ask me about** Python scripting, Regex, Pandas, and extracting structured data from chaos.
 - 📫 Reach me at: **faisalkhalid.kd1@gmail.com**
