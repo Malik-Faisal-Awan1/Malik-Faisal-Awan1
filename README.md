@@ -31,10 +31,13 @@
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
 - 🔹 [PDF Hematology Extractor](https://github.com/Malik-Faisal-Awan1/pdf-hematology-extractor)  
   Extracts hematology values, hemoglobin fractions, and morphology findings from PDF reports into CSV.
+
+- 🔹 [ANPR-BLS](https://github.com/Malik-Faisal-Awan1/ANPR-BLS)  
+  Automatic Number Plate Recognition system (ANPR-BLS).
 
 ---
 
